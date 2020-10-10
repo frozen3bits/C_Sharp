@@ -1,0 +1,13 @@
+E:\C#\Assignment\PI\PI\bin\Debug\netcoreapp3.1\PI.exe
+E:\C#\Assignment\PI\PI\bin\Debug\netcoreapp3.1\PI.deps.json
+E:\C#\Assignment\PI\PI\bin\Debug\netcoreapp3.1\PI.runtimeconfig.json
+E:\C#\Assignment\PI\PI\bin\Debug\netcoreapp3.1\PI.runtimeconfig.dev.json
+E:\C#\Assignment\PI\PI\bin\Debug\netcoreapp3.1\PI.dll
+E:\C#\Assignment\PI\PI\bin\Debug\netcoreapp3.1\PI.pdb
+E:\C#\Assignment\PI\PI\obj\Debug\netcoreapp3.1\PI.csprojAssemblyReference.cache
+E:\C#\Assignment\PI\PI\obj\Debug\netcoreapp3.1\PI.AssemblyInfoInputs.cache
+E:\C#\Assignment\PI\PI\obj\Debug\netcoreapp3.1\PI.AssemblyInfo.cs
+E:\C#\Assignment\PI\PI\obj\Debug\netcoreapp3.1\PI.csproj.CoreCompileInputs.cache
+E:\C#\Assignment\PI\PI\obj\Debug\netcoreapp3.1\PI.dll
+E:\C#\Assignment\PI\PI\obj\Debug\netcoreapp3.1\PI.pdb
+E:\C#\Assignment\PI\PI\obj\Debug\netcoreapp3.1\PI.genruntimeconfig.cache
